@@ -4,7 +4,7 @@ A clean, professional investor one-pager for **B2B Hub v4** — a dual-mode B2B 
 
 ## Live URL
 
-Deployed on Vercel (add your URL here after deployment).
+https://maleksal790-collab.github.io/b2b-hub-v4/
 
 ## Overview
 
@@ -21,16 +21,18 @@ B2B Hub v4 combines a **Storefront Marketplace** (for SMBs) and an **Enterprise 
 ## Tech Stack
 
 - Static HTML + CSS + JavaScript
-- Hosted on Vercel
+- Hosted on GitHub Pages
 - Contact form via Formspree
 
 ## Deployment
 
-1. Push `index.html` and `README.md` to this GitHub repository.
-2. Import the repo into [Vercel](https://vercel.com).
-3. Deploy — done.
-
-Future updates are automatic on every push to `main`.
+1. The repository is already set up for GitHub Pages deployment.
+2. Ensure GitHub Pages is enabled in repository settings:
+   - Go to **Settings > Pages**
+   - Select `main` branch as the source
+   - Save
+3. The site automatically deploys to: https://maleksal790-collab.github.io/b2b-hub-v4/
+4. Future updates are automatic on every push to `main`.
 
 ## Contact Form
 
